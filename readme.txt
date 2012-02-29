@@ -35,6 +35,9 @@ Visit https://github.com/eteubert/no-more-enclosures, fork the project, add your
 
 == Changelog ==
 
+= 1.0.1 =
+* Add missing link to WordPress plugin page
+
 = 1.0 =
 * Release
 

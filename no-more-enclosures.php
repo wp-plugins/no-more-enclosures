@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: No More Enclosures
-Plugin URI: 
+Plugin URI: http://wordpress.org/extend/plugins/no-more-enclosures/
 Description: WordPress automatically discovers enclosures you reference in a post. Use this plugin to stop WordPress from doing that.
-Version: 1.0
+Version: 1.0.1
 Author: Eric Teubert
 Author URI: ericteubert@googlemail.com
 License: MIT
